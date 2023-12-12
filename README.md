@@ -6,7 +6,7 @@
 </div>
 
 ### My other repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ASBoom130Games&repo=lgdc-le-film)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ASBoom130Games&repo=lgdc-le-film)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ASBoom130Games/lgdc-le-film))
 <!--
 > [!WARNING]\
 > By default, the stats card only shows statistics like stars, commits, and pull requests from public repositories. To show private statistics on the stats card, you should [deploy your own instance](#deploy-on-your-own) using your own GitHub API token.
